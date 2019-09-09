@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "PM Threat Model",
+    "owner": "Andreas Stensig",
+    "description": "A decentralised password manager where the secure vault exists as fragments spread across a peer-to-peer network, and the nodes have to collaborate to construct the vault ad-hoc when the user needs to interact with it."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
